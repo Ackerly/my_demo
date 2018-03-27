@@ -1,0 +1,32 @@
+.content{
+	width:350px;
+	margin: 50px auto;
+	text-align: left;
+}
+.list{ 
+	color:#2a6496;
+}
+.list li{
+	position:relative;
+	width:320px;
+	list-style:decimal inside;
+	line-height:35px;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
+.list a{
+	font-size:18px;
+	color:#0a8cd2;
+}
+.tip{position:absolute;
+	left: 0;
+	display:none;
+	color:#fff;
+	background:rgba(0,0,0, 0.6);
+	line-height:25px;
+	font-size:12px;
+	padding:2px 5px;
+	border-radius:5px;
+	z-index:1
+}

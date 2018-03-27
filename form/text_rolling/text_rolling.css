@@ -1,0 +1,23 @@
+.layout{
+	width: 500px;
+	margin: 0 auto;
+	padding-top:150px;
+	text-align: center;
+}
+#main{
+	height: 168px;
+	overflow: hidden;
+}
+#content{
+	padding-left: 20px;
+	height: 188px;
+	margin: 0px;
+}
+#content2{
+	height: 20px;
+	padding-left: 20px;
+	margin: 0px;
+}
+li{
+	list-style: none;
+}

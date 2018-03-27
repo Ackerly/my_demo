@@ -1,0 +1,11 @@
+.main{
+	width: 400px;
+	margin: 0 auto;
+	padding-top:100px;
+}
+.hint{
+	padding-top: 15px;
+}
+span{
+	color: red;
+}

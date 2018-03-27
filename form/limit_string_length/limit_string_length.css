@@ -1,0 +1,15 @@
+.main{
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.popover{
+	position: absolute;
+	left:430px;
+	width: 200px;
+	display: block;
+}
+.popover-content{
+	padding: 5px 14px;
+	color: red;
+}

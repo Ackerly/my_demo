@@ -1,0 +1,8 @@
+.content{
+	width: 500px;
+	margin: 0 auto;
+	padding-top:120px;
+}
+input{
+	ime-mode: disabled;
+}

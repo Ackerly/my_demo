@@ -1,0 +1,12 @@
+.text{
+	width: 400px;
+	margin :0 auto;
+	padding-top: 100px;
+	text-align: center;
+}
+input{
+	padding: 4px;
+}
+#btn{
+	margin-left: 10px;
+}

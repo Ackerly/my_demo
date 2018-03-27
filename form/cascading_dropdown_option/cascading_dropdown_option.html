@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>级联菜单</title>
+	<style type="text/css">
+		.main{width:350px; text-align:left;margin: 0 auto;padding-top: 150px;}
+		span{margin-right:15px;}
+	</style>
+</head>
+<body>
+	<div class="main">
+	    <select id="province" onchange="setCityByProvice()"></select>
+	    <select id="city">
+	    	<option value="">请先选择省</option>
+	    </select>
+	</div>
+</body>
+<script src="site.js"></script>
+<script src="cascading_dropdown_option.js"></script>
+</html>
